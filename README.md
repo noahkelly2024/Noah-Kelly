@@ -13,7 +13,7 @@ Skills:
 Web Development | Ethical Hacking | Whatever is needed for the next project, I'll learn it!
 
 Tools:
-vscode html css nodejs python git github
+VS Code | Oracle Cloud | Github Copilot
 
 🔭 I’m currently working on teaching myself to make a website for a client.
 🌱 I’m currently learning Node JS, Javascript, and CSS
