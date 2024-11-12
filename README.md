@@ -1,7 +1,7 @@
 # Noah-Kelly
 Hi there 👋, Welcome!
 
-Hello!👋🏻 My name is Noah Kelly. I am attending Messiah University studying BS Cyber Security. 🏫
+My name is Noah Kelly. I am attending Messiah University studying BS Cyber Security. 🏫
 
 I have a huge interest in cybersecurity as well coding👩‍💻!
 
